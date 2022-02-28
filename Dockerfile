@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 LABEL maintainer="Youssef GHOUBACH <ghoubach.youssef@gmail.com>"
 
-ARG VERSION=0.20.1
+ARG VERSION=0.21.0
 
 WORKDIR /root
 
